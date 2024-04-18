@@ -1,0 +1,17 @@
+header {
+    background-color: darkgreen;
+    color: gainsboro;
+    text-align: center;
+}
+
+main {
+    background-color: gainsboro;
+    padding: 1em;
+}
+
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
+
+}
